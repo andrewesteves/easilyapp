@@ -89,7 +89,7 @@ class UsersController extends EasilyController
 			], 'admin/home/_index');
 		}
 
-		$this->render('users/login', [], 'admin');
+		$this->render('users/login', [], 'login');
 	}
 
 	/**
