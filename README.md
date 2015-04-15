@@ -3,3 +3,4 @@
 <p>2) Gerenciar as rotas em public/index.php</p>
 <p>3) Criar o Controller, Model e View dentro da pasta src/App</p>
 <p>4) Convenção de arquivos de admin, utilizar o prefixo _</p>
+<p>www.andrewesteves.com.br/easily</p>
