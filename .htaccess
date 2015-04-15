@@ -1,0 +1,7 @@
+# Habilitar o PHP 5.5
+AddHandler application/x-httpd-php55 .php
+<IfModule mod_rewrite.c>
+    RewriteEngine on
+    RewriteRule    ^$    public/    [L]
+    RewriteRule    (.*)  public/$1  [L]
+</IfModule>
